@@ -15,7 +15,9 @@
     "zone.js": "^0.6.12"
   },
   "devDependencies": {
+    "angularfire2": "^2.0.0-beta.2",
     "del": "2.2.0",
+    "firebase": "^3.2.1",
     "gulp": "3.9.1",
     "gulp-watch": "4.3.5",
     "ionic-gulp-browserify-typescript": "2.0.0",
@@ -24,8 +26,8 @@
     "ionic-gulp-sass-build": "^1.0.0",
     "ionic-gulp-scripts-copy": "^2.0.0",
     "ionic-gulp-tslint": "^1.0.0",
-    "tslint-ionic-rules": "^0.0.3",
-    "run-sequence": "1.1.5"
+    "run-sequence": "1.1.5",
+    "tslint-ionic-rules": "^0.0.3"
   },
   "name": "myionic2project",
   "description": "MyIonic2Project: An Ionic project",
